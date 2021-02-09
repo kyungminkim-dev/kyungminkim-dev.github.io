@@ -6,7 +6,7 @@ categories:
   - Blog
 tags:
   - [Blog, jekyll, Github, Git]
-use_math: true
+use_math: 
 toc: true
 toc_sticky: true
  
