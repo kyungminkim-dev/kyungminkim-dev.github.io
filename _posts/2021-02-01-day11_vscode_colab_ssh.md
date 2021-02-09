@@ -1,6 +1,6 @@
 ---
 title:  "VScode colab SSH연결"
-excerpt: "AI Math"
+excerpt: "DL Basic"
 
 categories:
   - Blog
@@ -25,7 +25,7 @@ last_modified_at: 2021-02-09
 
 3. 설치후 (crtl + shift + p)를 눌러 Remote-SSH : Open Configuration File... 선택. 
 
-    \\<!--![image-20210209_100954](../../assets/img/boostcamp/20210209_100954.png) -->
+    ![image-20210209_100954](../../assets/img/boostcamp/20210209_100954.png)
 
     C:\\Users\\username\\.ssh\\config 선택
 
